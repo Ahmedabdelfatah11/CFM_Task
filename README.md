@@ -1,6 +1,6 @@
 # Company API
 
-This project is a .NET 7 Web API that demonstrates CRUD operations,
+This project is a .NET 9 Web API that demonstrates CRUD operations,
 database relationships, and reporting queries using Entity Framework Core
 and SQL Server.
 
